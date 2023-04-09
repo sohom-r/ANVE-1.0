@@ -1,0 +1,194 @@
+Search_word,News Source,News Title,News_Details,News_title_punc_removed,Search_word_punc_removed,News_title_tokenized,Search_word_tokenized,News_title_nonstop,Search_word_nonstop,News_title_stemmed,Search_word_stemmed,News_title_lemmatized,Search_word_lemmatized,News_sim,News_source_validate,Search_word_polarity,Search_word_subjectivity,Search_word_Polarity_indication,News_title_polarity,News_title_subjectivity,News_title_Polarity_indication
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.cnn.com/2022/04/08/americas/brazil-amazon-deforestation-latam-intl/index.html,Brazil's Amazon rainforest has already reached a new deforestation record this year,"(CNN) The portion of Amazon rainforest impacted by deforestation in the first three months of 2022 was the highest ever recorded, according to a new report by Brazil's National Institute for Space Research (INPE).
+
+amount recorded since the institute began monitoring According to the INPE report, published Friday, 941.34 square kilometers (363 square miles) of forest were cleared between January and March this year. That's the largestamount recorded since the institute began monitoring deforestation rates in 2016. The area cleared is nearly the size of Dallas, Texas.
+
+Researchers observed a 64% increase from the same time period last year, when 573.29 square kilometers (221 square miles) were cleared.
+
+Destruction of the world's largest rainforest has surged since President Jair Bolsonaro took office in 2019 and weakened environmental protections, arguing that they hinder economic development that could reduce poverty in the Amazon region.
+
+The president's office and the Environment Ministry did not immediately respond to requests for comment.
+
+Read More",Brazils Amazon rainforest has already reached a new deforestation record this year,Amazon Rainforest Reaches Dire New Record For Deforestation,"['brazils', 'amazon', 'rainforest', 'has', 'already', 'reached', 'a', 'new', 'deforestation', 'record', 'this', 'year']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['brazils', 'amazon', 'rainforest', 'already', 'reached', 'new', 'deforestation', 'record', 'year']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['brazil', 'amazon', 'rainforest', 'alreadi', 'reach', 'new', 'deforest', 'record', 'year']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['brazil', 'amazon', 'rainforest', 'already', 'reached', 'new', 'deforestation', 'record', 'year']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.7559289460184544,TC,0.13636363636363635,0.45454545454545453,Positive,0.13636363636363635,0.45454545454545453,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.reuters.com/world/americas/deforestation-brazils-amazon-hits-second-straight-monthly-record-2022-03-11/,Deforestation in Brazil's Amazon hits second straight monthly record,"An aerial view shows a deforested plot of the Amazon rainforest in Rondonia State, Brazil September 28, 2021. Picture taken September 28, 2021. REUTERS/Adriano Machado/File Photo
+
+SAO PAULO, March 11 (Reuters) - Deforestation in Brazil's Amazon rainforest hit record levels for the month of February, preliminary government data showed on Friday, as a scientific study indicated the jungle is nearing a tipping point after which it could no longer sustain itself.
+
+Forest clearing in the region totaled 199 square kilometres (77 square miles) for February, up 62% from the same month a year ago, according to data published by national space research agency INPE.
+
+That is the highest level for February since the data series began in 2015/2016 and follows a similar monthly record in January. read more
+
+Register now for FREE unlimited access to Reuters.com Register
+
+In the first two months of the year, destruction was three times higher than the same period in 2021. About 629 square kilometres (243 square miles) were deforested, an area roughly the size of Chicago.
+
+Brazil is home to around 60% of the Amazon, the world's largest rainforest, whose preservation is vital to curbing catastrophic climate change because of the vast amount of greenhouse gas it absorbs.
+
+Deforestation in Brazil has surged since right-wing President Jair Bolsonaro took office in 2019 and weakened environmental conservation, arguing for more commercial farming and mining in protected areas to help lift the Amazon region out of poverty.
+
+Bolsonaro's office did not immediately respond to requests for comment on Friday's data.
+
+The Environment Ministry said in a statement that the federal government is taking more forceful action against environmental crimes this year, coordinating efforts of environmental, police and defense forces.
+
+Scientists fear the destruction is pushing the Amazon toward a tipping point, after which the jungle would dry out and become savanna, releasing huge amounts of greenhouse gas.
+
+A study published in the journal Nature Climate Change earlier this week found that in the last two decades, more than three-quarters of the Amazon has already lost some of its ability to bounce back from disruptions like drought and fire.
+
+""Deforestation and climate change, via increasing dry-season length and drought frequency, may already have pushed the Amazon close to a critical threshold of rainforest dieback,"" the authors at the University of Exeter wrote.
+
+The amount of carbon lost by tropical forests each year - which ultimately returns to the atmosphere as climate-warming carbon dioxide - has doubled since the early 2000s, a separate study in the journal Nature Sustainability found last month.
+
+Some scientists suspect deforestation will rise further ahead of Brazil's October election, as it did in the last three election years. Authorities are likely to enforce environmental laws less rigorously for fear of upsetting voters, said Carlos Souza Jr, a researcher at environmental institute Imazon. read more
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reporting by Jake Spring Editing by Frances Kerry and Jonathan Oatis
+
+Our Standards: The Thomson Reuters Trust Principles.",Deforestation in Brazils Amazon hits second straight monthly record,Amazon Rainforest Reaches Dire New Record For Deforestation,"['deforestation', 'in', 'brazils', 'amazon', 'hits', 'second', 'straight', 'monthly', 'record']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['deforestation', 'brazils', 'amazon', 'hits', 'second', 'straight', 'monthly', 'record']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['deforest', 'brazil', 'amazon', 'hit', 'second', 'straight', 'monthli', 'record']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['deforestation', 'brazil', 'amazon', 'hit', 'second', 'straight', 'monthly', 'record']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.40089186286863654,TC,0.13636363636363635,0.45454545454545453,Positive,0.1,0.2,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.bbc.com/news/world-latin-america-55130304,Brazil's Amazon: Deforestation 'surges to 12-year high',"In a statement, Brazilian non-governmental organisation Climate Observatory said the figures ""reflect the result of a successful initiative to annihilate the capacity of the Brazilian State and the inspection bodies to take care of our forests and fight crime in the Amazon"".",Brazils Amazon Deforestation surges to year high,Amazon Rainforest Reaches Dire New Record For Deforestation,"['brazils', 'amazon', 'deforestation', 'surges', 'to', 'year', 'high']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['brazils', 'amazon', 'deforestation', 'surges', 'year', 'high']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['brazil', 'amazon', 'deforest', 'surg', 'year', 'high']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['brazil', 'amazon', 'deforestation', 'surge', 'year', 'high']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.3086066999241838,TC,0.13636363636363635,0.45454545454545453,Positive,0.16,0.5399999999999999,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.aljazeera.com/news/2022/2/11/deforestation-in-brazils-amazon-hits-new-record-in-january,Deforestation in Brazil’s Amazon hits new record in January,"Researches say forest destruction in Brazil has been accelerating since 2019, when President Jair Bolsonaro took office.
+
+Brazil recorded the most deforestation ever in the Amazon rainforest for the month of January, according to new government data, as the destruction continues to worsen despite the government’s recent pledges to bring it under control.
+
+Deforestation in Brazil’s Amazon totalled 430sq kilometres (166sq miles) last month, five times higher than January 2021, according to preliminary satellite data from government space research agency Inpe released on Friday.
+
+That was the highest for January since the current data series began in 2015.
+
+The new data came as environmental researchers have been saying that the destruction still rising is largely due to President Jair Bolsonaro, a right-wing leader who, since taking office in 2019, has weakened environmental protections in the country.
+
+With little fear of punishment, forests are being cleared for ranches in illegal land grabs, said Britaldo Soares Filho, an environmental modelling researcher at the Federal University of Minas Gerais. High prices for beef, soy and other commodities are also boosting the demand for cheap land.
+
+“People might be surprised that it didn’t increase even more,” Soares Filho said.
+
+“There is a race to deforest the Amazon.”
+
+The Ministry of the Environment said that making comparisons using single months does not provide the best picture, stating that in August to January deforestation fell slightly compared with the same period a year ago.
+
+The federal government is acting more forcefully in 2022 to fight against environmental crimes, the ministry said in a statement to Reuters.
+
+There is also concern that Colombia’s Amazon region is facing similar threats. On Tuesday, environmental groups expressed alarm about a sharp increase in forest fires that they blamed on logging to make way for cattle ranches, coca fields and illegal roads.
+
+More than 150 academics and activists from Colombia, Brazil, France and Spain sent a letter to Colombia’s President Ivan Duque urging the government to take a more aggressive stance against deforestation, using the military to put out the fires, creating economic alternatives for people in the Amazon region and arresting those who finance efforts to clear the forest.
+
+The preservation of the Amazon, the world’s largest rainforest, is vital to curbing climate change because of the vast amount of greenhouse gas absorbed in its trees.
+
+Bolsonaro has long argued for more commercial farming and mining in the Amazon to help lift the region out of poverty.
+
+Facing international pressure from the United States and Europe, Brazil last year pledged to end illegal deforestation by 2028.
+
+At the UN climate summit in 2021, 141 countries – including Brazil – signed a pledge to end deforestation by 2030.
+
+Soon after those commitments, Inpe released data showing that deforestation in 2021 in the Brazilian Amazon hit the highest point in 15 years. The preliminary data for January shows the destruction is continuing to mount.
+
+Ana Karine Pereira, a political scientist at the University of Brasilia, said while Bolsonaro and his government changed their tone last year, their policies remain the same.
+
+Soares Filho and Pereira said deforestation will only stop rising if Bolsonaro loses the presidential election in October.
+
+“Changing the political profile of the president and federal government leadership is crucial in this moment to see a break in this trend of high levels of deforestation,” Pereira said.",Deforestation in Brazil’s Amazon hits new record in January,Amazon Rainforest Reaches Dire New Record For Deforestation,"['deforestation', 'in', 'brazil', 's', 'amazon', 'hits', 'new', 'record', 'in', 'january']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['deforestation', 'brazil', 'amazon', 'hits', 'new', 'record', 'january']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['deforest', 'brazil', 'amazon', 'hit', 'new', 'record', 'januari']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['deforestation', 'brazil', 'amazon', 'hit', 'new', 'record', 'january']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.5714285714285714,TC,0.13636363636363635,0.45454545454545453,Positive,0.13636363636363635,0.45454545454545453,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.cnbc.com/2021/11/19/deforestation-in-brazils-amazon-rainforest-hits-15-year-high.html,"Deforestation in Brazil’s Amazon rainforest hits 15-year high, data shows","Smoke rises from an illegally lit fire in Amazon rainforest reserve, south of Novo Progresso in Para state, Brazil, on August 15, 2020.
+
+Deforestation in Brazil's Amazon rainforest has reached a 15-year high, data from the country's space agency has shown.
+
+A report published by Brazil's National Institute for Space Research (INPE) on Thursday estimated that 13,235 square kilometers (8,224 square miles) of forest was lost between August 2020 and July 2021. That's an increase of 22% from the previous year.
+
+It also marks the greatest area lost to deforestation in the Brazilian Amazon since 2006, when a total area of 14,286 square kilometers was cleared.
+
+The states of Pará, Amazonas, Mato Grosso and Rondônia saw the most deforestation during the 2020-21 period.
+
+INPE's latest data comes just weeks after Brazilian President Jair Bolsonaro signed an agreement at the COP26 climate summit pledging to end deforestation by 2030.
+
+Brazilian Environment Minister Joaquim Leite said the government had to be ""more forceful in relation to these crimes,"" according to the BBC. However, he reportedly added that the data ""does not exactly reflect the situation in the last few months.""",Deforestation in Brazil’s Amazon rainforest hits year high data shows,Amazon Rainforest Reaches Dire New Record For Deforestation,"['deforestation', 'in', 'brazil', 's', 'amazon', 'rainforest', 'hits', 'year', 'high', 'data', 'shows']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['deforestation', 'brazil', 'amazon', 'rainforest', 'hits', 'year', 'high', 'data', 'shows']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['deforest', 'brazil', 'amazon', 'rainforest', 'hit', 'year', 'high', 'data', 'show']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['deforestation', 'brazil', 'amazon', 'rainforest', 'hit', 'year', 'high', 'data', 'show']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.3779644730092272,TC,0.13636363636363635,0.45454545454545453,Positive,0.16,0.5399999999999999,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.business-standard.com/article/international/brazil-discovers-record-amazon-deforestation-in-january-february-122031101408_1.html,"Brazil discovers record Amazon deforestation in January, February","Detected in the Brazilian reached a record high for the month of February following a similar record the prior month.
+
+Satellite alerts of in February corresponded to 199 square kilometers (77 square miles), the highest indicator for that month in seven years of record-keeping and 62% more than in the same month in 2021, according to preliminary data from the Brazilian space agency's Deter monitoring system that were released on Friday.
+
+Deter data last month showed January registered 430 square kilometers of deforestation, more than quadruple the level in the same month last year.
+
+January and February are among the months that register the least amount deforestation, and pale in comparison to levels seen in the Southern Hemisphere's summer months. Still, some have argued the uptick could be a worrisome sign for months to come, with loggers and legislators eager to make headway before a possible handover of presidential power next January.
+
+has soared under President Jair Bolsonaro, who has been an outspoken champion of development in the and whose administration has defanged environmental authorities. Early polls show him trailing his rival Luiz Incio Lula da Silva in October presidential elections.
+
+Imagine what will happen when months of greater deforestation incidence arrive, even more so in an electoral year, Mrcio Astrini, executive secretary of the Climate Observatory, a network of environmental groups, told The Associated Press. We know that many who are deforesting, and even lawmakers who approve bills that favor deforestation, are betting on all or nothing, now or never, for forest destruction and reduction of forest protection through legislation.
+
+Earlier this week, thousands of Brazilians answered the call of artists and nonprofits, gathering outside Congress to protest bills they say threaten the rainforest by encouraging deforestation and industrial activity on protected Indigenous lands.
+
+Deter data is considered a leading indicator for complete calculations released near yearend from the more accurate system, Prodes, which is based on clearer images.
+
+According to Prodes data related to the 12-month reference period from Aug. 2020 to July 2021, deforestation in Brazil's Amazon reached a 15-year high after a 22% jump from the prior year.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)",Brazil discovers record Amazon deforestation in January February,Amazon Rainforest Reaches Dire New Record For Deforestation,"['brazil', 'discovers', 'record', 'amazon', 'deforestation', 'in', 'january', 'february']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['brazil', 'discovers', 'record', 'amazon', 'deforestation', 'january', 'february']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['brazil', 'discov', 'record', 'amazon', 'deforest', 'januari', 'februari']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['brazil', 'discovers', 'record', 'amazon', 'deforestation', 'january', 'february']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.4285714285714285,TC,0.13636363636363635,0.45454545454545453,Positive,0.0,0.0,Neutral
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.livemint.com/news/world/brazils-amazon-rainforest-deforestation-over-8-700-sq-km-of-forest-cover-destroyed-between-aug-2020-july-2021-11628294331631.html,"Brazil's Amazon rainforest deforestation: Over 8,700 sq km of forest cover destroyed between Aug 2020-July 2021","Deforestation in the Brazilian Amazon reached near-record levels for the 12 months through July, according to figures released Friday, the latest bleak news for the world's biggest rainforest under President Jair Bolsonaro.
+
+A total of 8,712 square kilometers (3,364 square miles) of forest cover -- an area nearly the size of Puerto Rico -- was destroyed from August 2020 to July 2021, according to satellite data from Brazilian space agency INPE's DETER monitoring program.
+
+That is the second-worst year on record for the program's August-July reference period, behind only the 9,216 square kilometers deforested the previous year -- the worst for the Brazilian Amazon since the monitoring program was launched in 2015.
+
+The latest annual figure is an increase of more than 90 percent since 2017-2018, the last full year before Bolsonaro took office.
+
+The far-right president has slashed environmental protection programs and pushed to open protected lands to agribusiness and mining.
+
+Environmentalists say that is having a disastrous impact on the Amazon, a critical resource in the race to curb climate change.
+
+""The rainforest's future is currently in the hands of land speculators, illegal loggers and gold miners,"" said Marcio Astrini, executive secretary of the Climate Observatory, a coalition of environmental groups.
+
+""The Amazon has become a free-for-all for environmental crime, in partnership with the current government,"" he said in a statement.
+
+Facing international pressure to improve his administration's environmental record, Bolsonaro accepted the resignation in June of environment minister Ricardo Salles.
+
+The regulation-slashing Salles, who was one of Bolsonaro's most controversial ministers, is under investigation for allegations of involvement in a timber trafficking scheme.
+
+The Climate Observatory said the new minister, Joaquim Leite, ""has not yet made a single move to undo his predecessor's policies.""
+
+Two recent studies have found heavily damaged portions of the Amazon are now emitting more carbon than they absorb, a worrying sign the rainforest may not act as a curb on global warming much longer.
+
+The DETER figure is for the period through July 30, meaning the final number is likely to be slightly higher.
+
+This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.",Brazils Amazon rainforest deforestation Over  sq km of forest cover destroyed between Aug July ,Amazon Rainforest Reaches Dire New Record For Deforestation,"['brazils', 'amazon', 'rainforest', 'deforestation', 'over', 'sq', 'km', 'of', 'forest', 'cover', 'destroyed', 'between', 'aug', 'july', '']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['brazils', 'amazon', 'rainforest', 'deforestation', 'sq', 'km', 'forest', 'cover', 'destroyed', 'aug', 'july', '']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['brazil', 'amazon', 'rainforest', 'deforest', 'sq', 'km', 'forest', 'cover', 'destroy', 'aug', 'juli', '']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['brazil', 'amazon', 'rainforest', 'deforestation', 'sq', 'km', 'forest', 'cover', 'destroyed', 'aug', 'july', '']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.3418817293789138,TC,0.13636363636363635,0.45454545454545453,Positive,0.0,0.0,Neutral
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.nature.com/articles/s41559-020-01368-x,The Brazilian Amazon deforestation rate in 2020 is the greatest of the decade,"To the Editor — In 2012, Brazil achieved an unprecedented feat among tropical countries by reducing deforestation rates in Amazonia by 84% (4,571 km2) compared to the historical peak of 2004, when 27,772 km2 of forests were clear-cut1 (Fig. 1). This achievement resulted from multiple government initiatives, particularly the Action Plan for the Prevention and Control of Deforestation in the Legal Amazon (PPCDAm)2,3 and international pressure, such as the soy and beef moratoria4. Fig. 1: Deforestation on the rise. Official deforestation rates for the Brazilian Amazon, taken from PRODES1. The target 80% reduction from the 1996–2005 average is also shown. Bar colours represent phases of the Brazilian government’s Action Plan for the Prevention and Control of Deforestation in the Legal Amazon (PPCDAm). Full size image
+
+As part of Brazil’s measures to achieve targets set for reducing greenhouse gas emissions, the National Policy on Climate Change, established in 2009, committed to reducing the deforestation rate in Amazonia by 80% by 2020 (refs. 3,5). This would have meant a maximum forest loss this year of 3,925 km2 compared to the baseline of 19,625 km2 (the average of the 1996–2005 period)3,5. However, since 2013, official deforestation rates have been on an upward trend, worsening in the last two years1. In 2019, 10,129 km2 of forest was clear-cut, an increase of 34% compared to 2018 (7,536 km2). In 2020, the Brazilian Amazon Deforestation Monitoring Program (PRODES; see Supplementary Information) estimated deforestation of 11,088 km2 based on 45% of the monitored area. This represents an increase of 47% and 9.5% compared to 2018 and 2019, respectively, and is the highest rate in the decade1. Although this is not the final number, previous years indicate an average difference of 58 ± 303 km2 between the first estimate and the final consolidated rate1, which will be presented in the first half of 2021.
+
+The 2020 deforestation rate is 182% higher than the established target of 3,925 km2 and represents a reduction of only 44% instead of the 80% established in law3. It equates to 648 TgCO 2 (or 648 million tons of CO 2 ) emitted to the atmosphere related to gross deforestation6. In addition to compromising the greenhouse gas reduction targets, the rise in deforestation has intensified fires7. Fires promote large amounts of smoke emission, which can affect the population’s respiratory health, exacerbating the vulnerability of indigenous, traditional and rural people8. Brazil has clearly failed in its bold intention to reduce deforestation rates.
+
+The upward trend in deforestation has been catalysed by a series of environmental setbacks that started with controversial changes in the Brazilian Forest Code in 2012 (ref. 9), and have been intensified by recent weakening of the Ministry of the Environment’s deforestation enforcement actions, disregard of related climate change policies, and law bills that may regularize illegally grabbed public lands7,10.
+
+Brazil is under national and international pressure to re-establish control of illegal activities in Amazonia. At the national level, former environment ministers, environmentalists, business entities and non-governmental organizations10 have been pressing authorities to curb deforestation in Amazonia. At the international level, the Organisation for Economic Co-operation and Development (OECD) and the European Union (EU) — under the EU–Mercosur Trade Agreement — have expressed their concerns with the climbing of deforestation in the region10. Failing to heed these calls will aggravate the current economic crisis and challenge Brazil’s post-COVID-19 recovery.
+
+The successful actions that curbed deforestation in the Brazilian Amazon in the past must be urgently resumed, returning Brazil to its former position as a global protagonist for sustainable development. Brazilians must work alongside international pressure to foster public civil actions that hold to account those actors working against Brazil’s environmental and social obligations. A Portuguese version of this Correspondence is provided in the Supplementary Information. Brazil, along with most other countries, is currently concerned with emergency measures to tackle the COVID-19 pandemic, but long-term planning is essential. The most strongly indicated actions encompass an urgent deforestation moratorium, supported by financial and human-resources investment in environmental monitoring and law enforcement, revision and strengthening of the PPCDAm, and a coherent plan for regularization and protection of public and indigenous lands. We urgently call for actions that are truly committed with local social, environmental and economic development in Amazonia.
+
+References Portal TerraBrasilis (Instituto Nacional de Pesquisas Espaciais (INPE), 2020); http://terrabrasilis.dpi.inpe.br de Mello, N. G. R. & Artaxo, P. Rev. Inst. Estud. Bras. https://doi.org/10.11606/issn.2316-901x.v0i66p108-129 (2017). Plano para Controle do Desmatamento Ilegal e Recuperação da Vegetação Nativa (Ministério do Meio Ambiente (MMA), 2020); https://go.nature.com/3mp3nPU Nepstad, D. et al. Science 344, 1118–1123 (2014). Decreto no 9.578 de 22 de Novembro de 2018 (Brazil, 2018); https://go.nature.com/2Vg8NRB Aragão, L. E. O. C. et al. Nat. Commun. 9, 536 (2018). Barlow, J., Berenguer, E., Carmenta, R. & França, F. Glob. Change Biol. 26, 319–321 (2020). Reddington, C. L. et al. Nat. Geosci. 8, 768–771 (2015). Brancalion, P. H. S. et al. Nat. Conserv. 14, 1–15 (2016). Cronologia de um Desastre Anunciado: Ações do Governo Bolsonaro para Desmontar as Políticas de Meio Ambiente no Brasil (Associação Nacional dos Servidores de Meio Ambiente (ASCEMA), 2020); https://go.nature.com/39pfY29 Download references
+
+Acknowledgements This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001. A.C.M.P., N.S.C., J.B.C.R. and L.E.O.C.A. thank the Brazilian National Council for Scientific and Technological Development (CNPq) for funding (processes 140877/2018-5, 140379/2018-5, 301597/2020-0 and 305054/2016-3, respectively). L.O.A. thanks the Inter-American Institute for Global Change Research (IAI; process SGP-HW 016), the CNPq (processes 441949/2018-5 and 442650/2018-3), and the São Paulo Research Foundation (FAPESP; processes 2016/02018-2 and 2019/05440-5) for funding. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. We also thank the scientists at the National Institute for Space Research (INPE) for providing the freely available deforestation datasets. We note that this study resulted from a female mentorship.
+
+Ethics declarations Competing interests The authors declare no competing interests.
+
+Additional information Peer review information Nature Ecology & Evolution thanks the anonymous reviewer for their contribution to the peer review of this work.
+
+Supplementary information Supplementary Information Supplementary Tables 1 and 2, Fig. 1, Methods, references and Portuguese translation of the Correspondence main text.
+
+Rights and permissions Reprints and Permissions",The Brazilian Amazon deforestation rate in  is the greatest of the decade,Amazon Rainforest Reaches Dire New Record For Deforestation,"['the', 'brazilian', 'amazon', 'deforestation', 'rate', 'in', 'is', 'the', 'greatest', 'of', 'the', 'decade']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['brazilian', 'amazon', 'deforestation', 'rate', 'greatest', 'decade']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['brazilian', 'amazon', 'deforest', 'rate', 'greatest', 'decad']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['brazilian', 'amazon', 'deforestation', 'rate', 'greatest', 'decade']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.3086066999241838,TC,0.13636363636363635,0.45454545454545453,Positive,1.0,1.0,Positive
+Amazon Rainforest Reaches Dire New Record For Deforestation,https://www.theguardian.com/environment/2021/aug/20/brazil-amazon-deforestation-report-bolsonaro-climate,Deforestation in Brazilian Amazon hits highest annual level in a decade,"Deforestation in the Brazilian Amazon has hit the highest annual level in a decade, a new report has shown, despite increasing global concern over the accelerating devastation since President Jair Bolsonaro took office in 2019.
+
+Between August 2020 and July 2021, the rainforest lost 10,476 square kilometers – an area nearly seven times bigger than greater London and 13 times the size of New York City, according to data released by Imazon, a Brazilian research institute that has been tracking the Amazon deforestation since 2008. The figure is 57% higher than in the previous year and is the worst since 2012.
+
+“Deforestation is still out of control,” Carlos Souza, a researcher at Imazon said. “Brazil is going against the global climate agenda that is seeking to urgently reduce greenhouse gas emissions.”
+
+Souza called for the urgent resumption of government actions to stop the destruction, including the enforcement of illegal agriculture-led deforestation in the region, which has been impaired by budget cuts for the environment ministry and environmental protection agencies.
+
+Even as he faces accusations of systematically dismantling environmental protections, Bolsonaro has deployed thousands of soldiers to combat illegal deforestation and fires.
+
+But the policy has proved ineffective, said Marcio Astrini, the executive-secretary of the organisation Climate Observatory.
+
+“The data shows that it didn’t work,” said Astrini. “No army operation will be able to mask or reverse the attacks of the federal government against the forest.”
+
+Astrini said that the deforestation rates in 2021 are expected to be almost 50% higher than in 2018, before Bolsonaro took office.
+
+In June, then-environment minister Ricardo Salles resigned amid a criminal investigation over allegations that a police investigation into illegal Amazon logging was blocked.
+
+But the ministry’s leadership “hasn’t shown any progress,” Astrini said.
+
+“The measures that benefit the export of illegal timber – the reason why Salles had to leave office – are still in place,” he said.
+
+The new figures were released as lawmakers held a public hearing to push for changes in Brazil’s environmental policies.
+
+“We are going through a very tough moment in Brazilian history. There’s a lot of denialism, and many attempts to weaken our environmental policy,” senator Eliziane Gama told the hearing.",Deforestation in Brazilian Amazon hits highest annual level in a decade,Amazon Rainforest Reaches Dire New Record For Deforestation,"['deforestation', 'in', 'brazilian', 'amazon', 'hits', 'highest', 'annual', 'level', 'in', 'a', 'decade']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'for', 'deforestation']","['deforestation', 'brazilian', 'amazon', 'hits', 'highest', 'annual', 'level', 'decade']","['amazon', 'rainforest', 'reaches', 'dire', 'new', 'record', 'deforestation']","['deforest', 'brazilian', 'amazon', 'hit', 'highest', 'annual', 'level', 'decad']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforest']","['deforestation', 'brazilian', 'amazon', 'hit', 'highest', 'annual', 'level', 'decade']","['amazon', 'rainforest', 'reach', 'dire', 'new', 'record', 'deforestation']",0.26726124191242434,TC,0.13636363636363635,0.45454545454545453,Positive,0.0,0.0,Neutral
